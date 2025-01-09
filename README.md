@@ -7,3 +7,7 @@ Um etwas 15 Uhr hatten wir unser Briefing, wo wir unsere Fortschritte gezeigt ha
 Nach dem Briefing haben wir als Gruppe T2 angefangen zu lesen, jeder hat aber für sich gelesen da jeder in seinem Tempo lesen soll.
 Als jeder T2 fertig gelesen hatte habe wir die T2 Besprechung durchgeführt.
 zum Schluss haben wir dann noch das Retro gemacht.
+
+## 09.01.25
+Ich sollte beim Planing darauf achten, dass ich mir einen Task zugeteilt habe und dass alle nötigen Tasks und Userstories erstellt sind, damit der PO sich nicht fragen muss ob ich eigentlich etwas mache.
+Ansonsten muss ich mir möglicherweise einen neuen Laptop anlegen, da der Laptop sehr langsam und unproduktiv ist.
