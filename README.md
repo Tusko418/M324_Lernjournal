@@ -11,3 +11,6 @@ zum Schluss haben wir dann noch das Retro gemacht.
 ## 09.01.25
 Ich sollte beim Planing darauf achten, dass ich mir einen Task zugeteilt habe und dass alle nötigen Tasks und Userstories erstellt sind, damit der PO sich nicht fragen muss ob ich eigentlich etwas mache.
 Ansonsten muss ich mir möglicherweise einen neuen Laptop anlegen, da der Laptop sehr langsam und unproduktiv ist.
+
+## 30.01.2025
+Der Desktop sollte ordentlich strukturiert sein, es soll nicht alles in meinem OneDrive abgespeichert werden, da die Dateien sonst mit der Zeit sehr lange brauchen um zu speichern. Der Laptop stand heute mehrfach kurz vor dem Absturz, da einfach zu viele Dateien im OneDrive gespeichert waren und dies den Laptop überlastete.
